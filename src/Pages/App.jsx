@@ -87,7 +87,7 @@ const App = () => {
                 <div className="flex items-center">
                   <h1 className="text-xl lg:text-2xl font-bold text-primary">
                     <SplitText
-                      text="The B's Consulting"
+                      text="The D's Consulting"
                       className="text-xl lg:text-2xl font-bold text-primary"
                       delay={100}
                       duration={0.4}
